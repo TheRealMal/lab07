@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/therealmal/lab07.svg?branch=tutorial)](https://travis-ci.org/therealmal/lab07)
+[![Build Status](https://travis-ci.com/TheRealMal/lab07.svg?branch=main)](https://travis-ci.com/TheRealMal/lab07)
 
 ## TP Labs 07
 
